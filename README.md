@@ -8,7 +8,7 @@ I have a 6 years of professional work experience as a backend developer but I am
 
 * 🌍  I'm based in Tokyo
 * ✉️  You can contact me at [mail2mursalin@gmail.com](mailto:mail2mursalin@gmail.com)
-* 🧠  I'm learning vue.js
+* 🧠  I'm learning React.js and Docker
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I am secrectly a content creator
 
